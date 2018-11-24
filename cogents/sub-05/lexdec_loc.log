@@ -1,0 +1,353 @@
+Cog2000 log file Fri Nov 09 10:48:39 2007
+GPrim v1.24 Compiled:Feb 24 2003 (GLib DirectDraw v7 Compiled:Feb 24 2003)
+Display:1024x768x32 59.81Hz
+Attaching C:\Expts\Joe\localizer\Cogent2000v1.25\Toolbox\CogInput.dll
+CogInput v1.04 Compiled: Apr  2 2002
+2	[2]	:	COGENT START
+15211	[15209]	:	Start of experiment: 15210
+21735	[6524]	:	Stim:	1	whip
+25455	[3720]	:	Key	34	DOWN	at	22301   
+25456	[1]	:	Key	34	UP	at	22488   
+25981	[525]	:	Stim:	2	earg
+29057	[3076]	:	Key	35	DOWN	at	26760   
+29058	[1]	:	Key	35	UP	at	26965   
+29593	[535]	:	Stim:	3	nhct
+34876	[5283]	:	Key	35	DOWN	at	30158   
+34877	[1]	:	Key	35	UP	at	30375   
+35410	[533]	:	Stim:	1	flyer
+38933	[3523]	:	Key	34	DOWN	at	36012   
+38934	[1]	:	Key	34	UP	at	36217   
+39471	[537]	:	Stim:	2	driry
+42497	[3026]	:	Key	35	DOWN	at	40265   
+42498	[1]	:	Key	35	UP	at	40494   
+43032	[534]	:	Stim:	1	avid
+47039	[4007]	:	Key	34	DOWN	at	43640   
+47040	[1]	:	Key	34	UP	at	43869   
+47579	[539]	:	Stim:	1	mayor
+49123	[1544]	:	Key	34	DOWN	at	48193   
+49124	[1]	:	Key	34	UP	at	48416   
+49652	[528]	:	Stim:	3	bmrsg
+51513	[1861]	:	Key	35	DOWN	at	50221   
+51514	[1]	:	Key	35	UP	at	50437   
+52043	[529]	:	Stim:	3	xbgrm
+57366	[5323]	:	Key	35	UP	at	52734   
+57893	[527]	:	Stim:	2	fralc
+63069	[5176]	:	Key	35	DOWN	at	58541   
+63070	[1]	:	Key	35	UP	at	58758   
+63594	[524]	:	Stim:	1	rash
+67300	[3706]	:	Key	34	DOWN	at	64166   
+67301	[1]	:	Key	34	UP	at	64364   
+67840	[539]	:	Stim:	1	duct
+69340	[1500]	:	Key	34	DOWN	at	68560   
+69341	[1]	:	Key	34	UP	at	68801   
+72220	[2879]	:	Rest at: 72220
+84723	[12503]	:	Stim:	1	apex
+90095	[5372]	:	Key	34	UP	at	85459   
+90624	[529]	:	Stim:	3	mnvgf
+93366	[2742]	:	Key	35	DOWN	at	91154   
+93367	[1]	:	Key	35	UP	at	91377   
+93900	[533]	:	Stim:	1	plead
+96184	[2284]	:	Key	34	UP	at	94623   
+96709	[525]	:	Stim:	2	mirce
+100026	[3317]	:	Key	35	DOWN	at	97500   
+100027	[1]	:	Key	35	UP	at	97722   
+100554	[527]	:	Stim:	3	rdlkm
+106053	[5499]	:	Key	35	DOWN	at	101133  
+106054	[1]	:	Key	35	UP	at	101344  
+106589	[535]	:	Stim:	2	fraik
+109955	[3366]	:	Key	34	DOWN	at	107256  
+109956	[1]	:	Key	34	UP	at	107484  
+110483	[527]	:	Stim:	3	wtqs
+112559	[2076]	:	Key	35	DOWN	at	111088  
+112560	[1]	:	Key	35	UP	at	111304  
+113092	[532]	:	Stim:	1	latch
+116100	[3008]	:	Key	34	DOWN	at	113707  
+116101	[1]	:	Key	34	UP	at	113965  
+116636	[535]	:	Stim:	1	realm
+122132	[5496]	:	Key	34	DOWN	at	117299  
+122133	[1]	:	Key	34	UP	at	117633  
+122670	[537]	:	Stim:	1	dent
+125614	[2944]	:	Key	34	DOWN	at	123211  
+125615	[1]	:	Key	34	UP	at	123492  
+126147	[532]	:	Stim:	1	witty
+130127	[3980]	:	Key	34	DOWN	at	126779  
+130128	[1]	:	Key	34	UP	at	127025  
+130660	[532]	:	Stim:	2	vabe
+132160	[1500]	:	Key	35	DOWN	at	131262  
+132161	[1]	:	Key	35	UP	at	131472  
+132215	[54]	:	Rest at: 132215
+144735	[12520]	:	Stim:	2	hoom
+148167	[3432]	:	Key	35	DOWN	at	145412  
+148168	[1]	:	Key	35	UP	at	145658  
+148680	[512]	:	Stim:	1	abuse
+152953	[4273]	:	Key	34	UP	at	149396  
+153478	[525]	:	Stim:	3	npsmv
+155073	[1595]	:	Key	35	UP	at	154189  
+155601	[528]	:	Stim:	3	sdsl
+158781	[3180]	:	Key	35	UP	at	156334  
+159312	[531]	:	Stim:	1	moss
+163265	[3953]	:	Key	34	UP	at	160060  
+163793	[528]	:	Stim:	1	geese
+168867	[5074]	:	Key	34	DOWN	at	164566  
+168868	[1]	:	Key	34	UP	at	164847  
+169392	[524]	:	Stim:	2	porry
+171660	[2268]	:	Key	35	DOWN	at	170115  
+171661	[1]	:	Key	35	UP	at	170408  
+172184	[523]	:	Stim:	2	fadle
+175499	[3315]	:	Key	35	DOWN	at	172804  
+175500	[1]	:	Key	35	UP	at	173045  
+176029	[529]	:	Stim:	3	fkjfc
+178098	[2069]	:	Key	35	DOWN	at	176900  
+178099	[1]	:	Key	35	UP	at	177164  
+178637	[538]	:	Stim:	1	bred
+182765	[4128]	:	Key	34	DOWN	at	179396  
+182766	[1]	:	Key	34	UP	at	179683  
+183301	[535]	:	Stim:	1	waive
+188005	[4704]	:	Key	34	DOWN	at	184435  
+188006	[1]	:	Key	34	UP	at	184717  
+188533	[527]	:	Stim:	1	dual
+190237	[1704]	:	Key	34	DOWN	at	189094  
+190238	[1]	:	Key	34	UP	at	189357  
+192227	[1989]	:	Rest at: 192227
+204748	[12521]	:	Stim:	1	seal
+209306	[4558]	:	Key	34	DOWN	at	205429  
+209307	[1]	:	Key	34	UP	at	205670  
+209846	[539]	:	Stim:	3	gjdj
+212358	[2512]	:	Key	35	DOWN	at	210586  
+212359	[1]	:	Key	35	UP	at	210861  
+212888	[529]	:	Stim:	1	glum
+215286	[2398]	:	Key	34	DOWN	at	213556  
+215287	[1]	:	Key	34	UP	at	213814  
+215814	[527]	:	Stim:	1	worm
+217445	[1631]	:	Key	34	DOWN	at	216410  
+217446	[1]	:	Key	34	UP	at	216679  
+217971	[525]	:	Stim:	1	medal
+223047	[5076]	:	Key	34	DOWN	at	218566  
+223048	[1]	:	Key	34	UP	at	218877  
+223588	[540]	:	Stim:	1	vale
+228394	[4806]	:	Key	34	DOWN	at	224150  
+228395	[1]	:	Key	34	UP	at	224437  
+228920	[525]	:	Stim:	2	flowk
+231070	[2150]	:	Key	35	DOWN	at	229547  
+231071	[1]	:	Key	35	UP	at	229799  
+231595	[524]	:	Stim:	2	dhel
+233129	[1534]	:	Key	35	DOWN	at	232154  
+233130	[1]	:	Key	35	UP	at	232394  
+233668	[538]	:	Stim:	3	rxjgs
+237445	[3777]	:	Key	35	DOWN	at	234275  
+237446	[1]	:	Key	35	UP	at	234504  
+237980	[534]	:	Stim:	3	rqhgw
+239806	[1826]	:	Key	35	UP	at	238711  
+240338	[532]	:	Stim:	2	lasel
+245658	[5320]	:	Key	35	DOWN	at	241318  
+245659	[1]	:	Key	35	UP	at	241547  
+246188	[529]	:	Stim:	1	truce
+251296	[5108]	:	Key	34	DOWN	at	246744  
+251297	[1]	:	Key	34	UP	at	246990  
+252222	[925]	:	Rest at: 252222
+264743	[12521]	:	Stim:	1	riot
+268315	[3572]	:	Key	34	UP	at	265447  
+268839	[524]	:	Stim:	1	groin
+270917	[2078]	:	Key	34	DOWN	at	269554  
+270918	[1]	:	Key	34	UP	at	269812  
+271447	[529]	:	Stim:	1	psalm
+276473	[5026]	:	Key	34	DOWN	at	272015  
+276474	[1]	:	Key	34	UP	at	272267  
+277013	[539]	:	Stim:	2	moek
+281965	[4952]	:	Key	35	DOWN	at	277547  
+281966	[1]	:	Key	35	UP	at	277746  
+282496	[530]	:	Stim:	2	chupe
+286100	[3604]	:	Key	35	DOWN	at	283154  
+286101	[1]	:	Key	35	UP	at	283394  
+286625	[524]	:	Stim:	3	zxzrf
+289756	[3131]	:	Key	35	UP	at	287355  
+290286	[530]	:	Stim:	1	sever
+292934	[2648]	:	Key	34	DOWN	at	290865  
+292935	[1]	:	Key	34	UP	at	291076  
+293463	[528]	:	Stim:	2	grach
+296881	[3418]	:	Key	35	DOWN	at	294094  
+296882	[1]	:	Key	35	UP	at	294381  
+297407	[525]	:	Stim:	1	camel
+302558	[5151]	:	Key	34	DOWN	at	298025  
+302559	[1]	:	Key	34	UP	at	298289  
+303091	[532]	:	Stim:	3	xpvtv
+305211	[2120]	:	Key	35	DOWN	at	303644  
+305212	[1]	:	Key	35	UP	at	303861  
+305749	[537]	:	Stim:	1	saga
+310325	[4576]	:	Key	34	DOWN	at	306398  
+310326	[1]	:	Key	34	UP	at	306668  
+310864	[538]	:	Stim:	3	vfqh
+312364	[1500]	:	Key	35	DOWN	at	311414  
+312365	[1]	:	Key	35	UP	at	311619  
+315227	[2862]	:	Rest at: 315227
+327748	[12521]	:	Stim:	1	rein
+331975	[4227]	:	Key	34	DOWN	at	328336  
+331976	[1]	:	Key	34	UP	at	328541  
+332512	[536]	:	Stim:	3	jqcb
+335820	[3308]	:	Key	35	DOWN	at	333076  
+335821	[1]	:	Key	35	UP	at	333316  
+336357	[536]	:	Stim:	2	wure
+338444	[2087]	:	Key	35	DOWN	at	336902  
+338445	[1]	:	Key	35	UP	at	337101  
+338981	[536]	:	Stim:	1	clove
+343773	[4792]	:	Key	34	UP	at	339656  
+344314	[541]	:	Stim:	3	rghls
+346823	[2509]	:	Key	35	DOWN	at	344900  
+346824	[1]	:	Key	35	UP	at	345117  
+347356	[532]	:	Stim:	2	craje
+351616	[4260]	:	Key	35	DOWN	at	348076  
+351617	[1]	:	Key	35	UP	at	348287  
+352154	[537]	:	Stim:	2	glax
+355228	[3074]	:	Key	35	DOWN	at	352687  
+355229	[1]	:	Key	35	UP	at	352887  
+355764	[535]	:	Stim:	1	brawl
+359661	[3897]	:	Key	34	DOWN	at	356373  
+359662	[1]	:	Key	34	UP	at	356584  
+360194	[532]	:	Stim:	1	wrack
+365401	[5207]	:	Key	34	DOWN	at	360879  
+365402	[1]	:	Key	34	UP	at	361125  
+365929	[527]	:	Stim:	1	bale
+367938	[2009]	:	Key	34	UP	at	366703  
+368470	[532]	:	Stim:	1	debt
+373356	[4886]	:	Key	34	UP	at	369228  
+373886	[530]	:	Stim:	3	rgfg
+375386	[1500]	:	Key	35	DOWN	at	374461  
+375387	[1]	:	Key	35	UP	at	374689  
+378232	[2845]	:	Rest at: 378231
+390753	[12521]	:	Stim:	1	havoc
+392481	[1728]	:	Key	34	DOWN	at	391459  
+392482	[1]	:	Key	34	UP	at	391728  
+393010	[528]	:	Stim:	1	fury
+396678	[3668]	:	Key	34	DOWN	at	393674  
+396679	[1]	:	Key	34	UP	at	393961  
+397205	[526]	:	Stim:	1	await
+400142	[2937]	:	Key	34	DOWN	at	397793  
+400143	[1]	:	Key	34	UP	at	398010  
+400682	[539]	:	Stim:	3	twjvr
+404294	[3612]	:	Key	35	DOWN	at	401215  
+404295	[1]	:	Key	35	UP	at	401402  
+404828	[533]	:	Stim:	2	pruxe
+408296	[3468]	:	Key	35	DOWN	at	405428  
+408297	[1]	:	Key	35	UP	at	405633  
+408806	[509]	:	Stim:	3	pfvhs
+413002	[4196]	:	Key	35	UP	at	409494  
+413537	[535]	:	Stim:	1	trout
+417789	[4252]	:	Key	34	DOWN	at	414064  
+417790	[1]	:	Key	34	UP	at	414287  
+418318	[528]	:	Stim:	2	bogue
+423445	[5127]	:	Key	35	DOWN	at	419267  
+423446	[1]	:	Key	35	UP	at	419513  
+423985	[539]	:	Stim:	1	craft
+426597	[2612]	:	Key	34	DOWN	at	424547  
+426598	[1]	:	Key	34	UP	at	424746  
+427128	[530]	:	Stim:	2	lapem
+430851	[3723]	:	Key	35	DOWN	at	427699  
+430852	[1]	:	Key	35	UP	at	427881  
+431390	[538]	:	Stim:	1	tally
+436208	[4818]	:	Key	34	DOWN	at	432053  
+436209	[1]	:	Key	34	UP	at	432316  
+436722	[513]	:	Stim:	3	bkkrp
+438222	[1500]	:	Key	35	DOWN	at	437297  
+438223	[1]	:	Key	35	UP	at	437508  
+441236	[3013]	:	Rest at: 441236
+453723	[12487]	:	Stim:	1	slave
+456242	[2519]	:	Key	34	UP	at	454330  
+456765	[523]	:	Stim:	2	tunip
+460531	[3766]	:	Key	34	DOWN	at	457365  
+460532	[1]	:	Key	34	UP	at	457594  
+461062	[530]	:	Stim:	1	moth
+463742	[2680]	:	Key	34	DOWN	at	461765  
+463743	[1]	:	Key	34	UP	at	461988  
+464271	[528]	:	Stim:	2	cosl
+467144	[2873]	:	Key	35	DOWN	at	464883  
+467145	[1]	:	Key	35	UP	at	465082  
+467681	[536]	:	Stim:	3	bzmdt
+472873	[5192]	:	Key	35	DOWN	at	468422  
+472874	[1]	:	Key	35	UP	at	468644  
+473399	[525]	:	Stim:	3	zxjd
+475821	[2422]	:	Key	35	UP	at	474006  
+476357	[536]	:	Stim:	1	rover
+480035	[3678]	:	Key	34	UP	at	476988  
+480570	[535]	:	Stim:	2	allu
+483715	[3145]	:	Key	35	DOWN	at	481254  
+483716	[1]	:	Key	35	UP	at	481459  
+484248	[532]	:	Stim:	1	puny
+489453	[5205]	:	Key	34	UP	at	484910  
+489981	[528]	:	Stim:	1	entry
+494811	[4830]	:	Key	34	DOWN	at	490558  
+494812	[1]	:	Key	34	UP	at	490804  
+495347	[535]	:	Stim:	3	czxs
+497145	[1798]	:	Key	35	DOWN	at	495879  
+497146	[1]	:	Key	35	UP	at	496060  
+497671	[525]	:	Stim:	1	cloak
+499171	[1500]	:	Key	34	DOWN	at	498269  
+499172	[1]	:	Key	34	UP	at	498504  
+501232	[2060]	:	Rest at: 501232
+513753	[12521]	:	Stim:	2	tace
+517543	[3790]	:	Key	35	DOWN	at	514424  
+517544	[1]	:	Key	35	UP	at	514664  
+518065	[521]	:	Stim:	1	rakt
+522836	[4771]	:	Key	35	DOWN	at	518678  
+522837	[1]	:	Key	35	UP	at	518894  
+523347	[510]	:	Stim:	1	siege
+526211	[2864]	:	Key	34	DOWN	at	524144  
+526212	[1]	:	Key	34	UP	at	524361  
+526724	[512]	:	Stim:	1	gust
+528362	[1638]	:	Key	34	DOWN	at	527308  
+528363	[1]	:	Key	34	UP	at	527537  
+528897	[534]	:	Stim:	1	chop
+531078	[2181]	:	Key	34	DOWN	at	529424  
+531079	[1]	:	Key	34	UP	at	529640  
+531605	[526]	:	Stim:	3	dktd
+534026	[2421]	:	Key	35	DOWN	at	532142  
+534027	[1]	:	Key	35	UP	at	532359  
+534564	[537]	:	Stim:	2	reigh
+537145	[2581]	:	Key	35	DOWN	at	535271  
+537146	[1]	:	Key	35	UP	at	535494  
+537674	[528]	:	Stim:	2	triom
+541353	[3679]	:	Key	35	DOWN	at	538254  
+541354	[1]	:	Key	35	UP	at	538465  
+541887	[533]	:	Stim:	3	rqwwg
+544417	[2530]	:	Key	35	UP	at	542578  
+544945	[528]	:	Stim:	1	anvil
+547063	[2118]	:	Key	34	DOWN	at	545560  
+547064	[1]	:	Key	34	UP	at	545777  
+547603	[539]	:	Stim:	1	poll
+552057	[4454]	:	Key	34	UP	at	548279  
+552585	[528]	:	Stim:	3	wgnrb
+557134	[4549]	:	Key	35	UP	at	553248  
+558235	[1101]	:	Rest at: 558235
+570756	[12521]	:	Stim:	1	lust
+575034	[4278]	:	Key	34	UP	at	571371  
+575570	[536]	:	Stim:	1	widow
+578949	[3379]	:	Key	34	DOWN	at	576146  
+578950	[1]	:	Key	34	UP	at	576398  
+579482	[532]	:	Stim:	1	drab
+584010	[4528]	:	Key	34	DOWN	at	580019  
+584011	[1]	:	Key	34	UP	at	580265  
+584530	[519]	:	Stim:	3	pfxbs
+588492	[3962]	:	Key	35	DOWN	at	585164  
+588493	[1]	:	Key	35	UP	at	585433  
+589027	[534]	:	Stim:	3	bmnd
+592525	[3498]	:	Key	35	UP	at	589769  
+593055	[530]	:	Stim:	2	trusk
+598490	[5435]	:	Key	35	DOWN	at	593971  
+598491	[1]	:	Key	35	UP	at	594193  
+599023	[532]	:	Stim:	2	voin
+601588	[2565]	:	Key	35	DOWN	at	599795  
+601589	[1]	:	Key	35	UP	at	600017  
+602116	[527]	:	Stim:	1	gore
+606008	[3892]	:	Key	34	DOWN	at	603017  
+606009	[1]	:	Key	34	UP	at	603263  
+606546	[537]	:	Stim:	1	lone
+610321	[3775]	:	Key	34	UP	at	607213  
+610858	[537]	:	Stim:	1	hind
+612501	[1643]	:	Key	34	UP	at	611596  
+613032	[531]	:	Stim:	2	stemp
+616191	[3159]	:	Key	35	DOWN	at	613699  
+616192	[1]	:	Key	35	UP	at	613916  
+616726	[534]	:	Stim:	3	qbfbr
+618226	[1500]	:	Key	35	DOWN	at	617262  
+618227	[1]	:	Key	35	UP	at	617449  
+621223	[2996]	:	Rest at: 621222
+650469	[29246]	:	COGENT STOP

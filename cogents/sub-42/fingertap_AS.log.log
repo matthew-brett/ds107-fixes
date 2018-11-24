@@ -1,0 +1,22 @@
+Cog2000 log file Thu Jun 26 15:37:57 2008
+GPrim v1.24 Compiled:Feb 24 2003 (GLib DirectDraw v7 Compiled:Feb 24 2003)
+Display:1024x768x32 59.81Hz
+2	[2]	:	COGENT START
+56310	[56308]	:	Start of experiment: 56308
+56315	[5]	:	Stim:	1	Tap
+72347	[16032]	:	Rest at: 72347
+89314	[16967]	:	Stim:	1	Tap
+105346	[16032]	:	Rest at: 105346
+122312	[16966]	:	Stim:	1	Tap
+138345	[16033]	:	Rest at: 138344
+155328	[16983]	:	Stim:	1	Tap
+171360	[16032]	:	Rest at: 171359
+188327	[16967]	:	Stim:	1	Tap
+204358	[16031]	:	Rest at: 204358
+221326	[16968]	:	Stim:	1	Tap
+237357	[16031]	:	Rest at: 237357
+254325	[16968]	:	Stim:	1	Tap
+270356	[16031]	:	Rest at: 270356
+287323	[16967]	:	Stim:	1	Tap
+303355	[16032]	:	Rest at: 303354
+343450	[40095]	:	COGENT STOP

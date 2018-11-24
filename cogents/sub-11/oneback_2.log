@@ -1,0 +1,482 @@
+Cog2000 log file Wed Dec 12 19:04:21 2007
+GPrim v1.24 Compiled:Feb 24 2003 (GLib DirectDraw v7 Compiled:Feb 24 2003)
+Display:1024x768x32 59.81Hz
+Attaching C:\Expts\Joe\localizer\Cogent2000v1.25\Toolbox\CogInput.dll
+CogInput v1.04 Compiled: Apr  2 2002
+1	[1]	:	COGENT START
+90189	[90188]	:	Start of experiment: 90189
+90208	[19]	:	Stim:	2	cjdh
+91227	[1019]	:	Stim:	2	hdrg
+92247	[1020]	:	Stim:	2	hdrg
+93247	[1000]	:	Key	28	DOWN	at	92672   
+93248	[1]	:	Key	28	UP	at	93035   
+93267	[19]	:	Stim:	2	tgdjz
+94286	[1019]	:	Stim:	2	bzcrn
+95307	[1021]	:	Stim:	2	gjss
+96326	[1019]	:	Stim:	2	nsxrr
+97346	[1020]	:	Stim:	2	jdjrq
+98365	[1019]	:	Stim:	2	jdjrq
+99365	[1000]	:	Key	28	DOWN	at	98777   
+99366	[1]	:	Key	28	UP	at	99135   
+99385	[19]	:	Stim:	2	gxkz
+100404	[1019]	:	Stim:	2	vhjb
+101425	[1021]	:	Stim:	2	dclm
+102444	[1019]	:	Stim:	2	bfzqz
+103464	[1020]	:	Stim:	2	dbwq
+104483	[1019]	:	Stim:	2	cjczd
+105503	[1020]	:	Stim:	2	tlqv
+106573	[1070]	:	Stim:	4	scram_1
+107609	[1036]	:	Stim:	4	scram_2
+108645	[1036]	:	Stim:	4	scram_2
+109683	[1038]	:	Stim:	4	scram_4
+110719	[1036]	:	Stim:	4	scram_5
+111719	[1000]	:	Key	28	DOWN	at	111170  
+111720	[1]	:	Key	28	UP	at	111275  
+111755	[35]	:	Stim:	4	scram_6
+112792	[1037]	:	Stim:	4	scram_7
+113828	[1036]	:	Stim:	4	scram_8
+114864	[1036]	:	Stim:	4	scram_9
+115901	[1037]	:	Stim:	4	scram_10
+116937	[1036]	:	Stim:	4	scram_10
+117974	[1037]	:	Stim:	4	scram_12
+119010	[1036]	:	Stim:	4	scram_13
+120047	[1037]	:	Stim:	4	scram_14
+121083	[1036]	:	Stim:	4	scram_15
+122119	[1036]	:	Stim:	4	scram_16
+123156	[1037]	:	Stim:	3	goat
+124191	[1035]	:	Stim:	3	goat
+125191	[1000]	:	Key	28	DOWN	at	124699  
+125226	[35]	:	Stim:	3	camera
+126246	[1020]	:	Stim:	3	wheel
+127266	[1020]	:	Stim:	3	camel
+128283	[1017]	:	Stim:	3	donkey
+129304	[1021]	:	Stim:	3	candle
+130322	[1018]	:	Stim:	3	zip
+131341	[1019]	:	Stim:	3	stool
+132359	[1018]	:	Stim:	3	stool
+133359	[1000]	:	Key	28	DOWN	at	133019  
+133395	[36]	:	Stim:	3	ruler
+134431	[1036]	:	Stim:	3	wool
+135449	[1018]	:	Stim:	3	tap
+136468	[1019]	:	Stim:	3	mouse
+137487	[1019]	:	Stim:	3	tiger
+138523	[1036]	:	Stim:	3	belt
+139543	[1020]	:	Stim:	1	claw
+140562	[1019]	:	Stim:	1	hare
+141582	[1020]	:	Stim:	1	hare
+142582	[1000]	:	Key	28	DOWN	at	142113  
+142583	[1]	:	Key	28	UP	at	142377  
+142602	[19]	:	Stim:	1	spree
+143622	[1020]	:	Stim:	1	scorn
+144642	[1020]	:	Stim:	1	kite
+145661	[1019]	:	Stim:	1	brute
+146681	[1020]	:	Stim:	1	waltz
+147700	[1019]	:	Stim:	1	waltz
+148700	[1000]	:	Key	28	DOWN	at	148213  
+148701	[1]	:	Key	28	UP	at	148494  
+148721	[20]	:	Stim:	1	keel
+149740	[1019]	:	Stim:	1	peck
+150760	[1020]	:	Stim:	1	code
+151779	[1019]	:	Stim:	1	ulcer
+152799	[1020]	:	Stim:	1	babe
+153819	[1020]	:	Stim:	1	haste
+154839	[1020]	:	Stim:	1	yoke
+155842	[1003]	:	Rest at: 155842
+171204	[15362]	:	Stim:	3	parrot
+172223	[1019]	:	Stim:	3	dice
+173242	[1019]	:	Stim:	3	bib
+174262	[1020]	:	Stim:	3	drum
+175281	[1019]	:	Stim:	3	drum
+176281	[1000]	:	Key	28	DOWN	at	175717  
+176282	[1]	:	Key	28	UP	at	176016  
+176317	[35]	:	Stim:	3	peach
+177336	[1019]	:	Stim:	3	clock
+178355	[1019]	:	Stim:	3	car
+179374	[1019]	:	Stim:	3	pig
+180393	[1019]	:	Stim:	3	basin
+181412	[1019]	:	Stim:	3	saw
+182447	[1035]	:	Stim:	3	cow
+183466	[1019]	:	Stim:	3	cow
+184466	[1000]	:	Key	28	DOWN	at	183891  
+184467	[1]	:	Key	28	UP	at	184154  
+184503	[36]	:	Stim:	3	flower
+185539	[1036]	:	Stim:	3	key
+186558	[1019]	:	Stim:	3	ball
+187577	[1019]	:	Stim:	2	hndzg
+188597	[1020]	:	Stim:	2	wkmmz
+189617	[1020]	:	Stim:	2	kksl
+190637	[1020]	:	Stim:	2	bcrf
+191656	[1019]	:	Stim:	2	qwmfm
+192676	[1020]	:	Stim:	2	xrvz
+193695	[1019]	:	Stim:	2	xrvz
+194695	[1000]	:	Key	28	DOWN	at	194203  
+194696	[1]	:	Key	28	UP	at	194449  
+194716	[20]	:	Stim:	2	zbrhx
+195735	[1019]	:	Stim:	2	xhqb
+196755	[1020]	:	Stim:	2	xhqb
+197755	[1000]	:	Key	28	DOWN	at	197180  
+197756	[1]	:	Key	28	UP	at	197420  
+197774	[18]	:	Stim:	2	dhhhh
+198794	[1020]	:	Stim:	2	sxjxn
+199813	[1019]	:	Stim:	2	jkcwt
+200834	[1021]	:	Stim:	2	vmxhv
+201853	[1019]	:	Stim:	2	tvgvn
+202873	[1020]	:	Stim:	2	hcbd
+203893	[1020]	:	Stim:	1	feast
+204912	[1019]	:	Stim:	1	baron
+205933	[1021]	:	Stim:	1	watt
+206952	[1019]	:	Stim:	1	gilt
+207972	[1020]	:	Stim:	1	graft
+208991	[1019]	:	Stim:	1	haul
+210011	[1020]	:	Stim:	1	haul
+211011	[1000]	:	Key	28	DOWN	at	210545  
+211012	[1]	:	Key	28	UP	at	210832  
+211030	[18]	:	Stim:	1	harem
+212051	[1021]	:	Stim:	1	hump
+213070	[1019]	:	Stim:	1	hump
+214070	[1000]	:	Key	28	DOWN	at	213809  
+214071	[1]	:	Key	28	UP	at	214049  
+214090	[19]	:	Stim:	1	olive
+215109	[1019]	:	Stim:	1	token
+216129	[1020]	:	Stim:	1	burro
+217148	[1019]	:	Stim:	1	lunge
+218169	[1021]	:	Stim:	1	cargo
+219188	[1019]	:	Stim:	1	loop
+220225	[1037]	:	Stim:	4	scram_17
+221261	[1036]	:	Stim:	4	scram_18
+222298	[1037]	:	Stim:	4	scram_19
+223334	[1036]	:	Stim:	4	scram_20
+224370	[1036]	:	Stim:	4	scram_20
+225370	[1000]	:	Key	28	DOWN	at	225293  
+225407	[37]	:	Stim:	4	scram_22
+226443	[1036]	:	Stim:	4	scram_23
+227479	[1036]	:	Stim:	4	scram_24
+228517	[1038]	:	Stim:	4	scram_25
+229553	[1036]	:	Stim:	4	scram_26
+230589	[1036]	:	Stim:	4	scram_27
+231625	[1036]	:	Stim:	4	scram_28
+232662	[1037]	:	Stim:	4	scram_29
+233662	[1000]	:	Key	28	DOWN	at	233209  
+233663	[1]	:	Key	28	UP	at	233473  
+233698	[35]	:	Stim:	4	scram_29
+234734	[1036]	:	Stim:	4	scram_31
+235771	[1037]	:	Stim:	4	scram_32
+236774	[1003]	:	Rest at: 236774
+252203	[15429]	:	Stim:	4	scram_33
+253240	[1037]	:	Stim:	4	scram_34
+254276	[1036]	:	Stim:	4	scram_35
+255312	[1036]	:	Stim:	4	scram_36
+256312	[1000]	:	Key	28	DOWN	at	255803  
+256313	[1]	:	Key	28	UP	at	256036  
+256349	[36]	:	Stim:	4	scram_37
+257386	[1037]	:	Stim:	4	scram_38
+258422	[1036]	:	Stim:	4	scram_38
+259458	[1036]	:	Stim:	4	scram_40
+260495	[1037]	:	Stim:	4	scram_41
+261531	[1036]	:	Stim:	4	scram_42
+262567	[1036]	:	Stim:	4	scram_43
+263604	[1037]	:	Stim:	4	scram_44
+264641	[1037]	:	Stim:	4	scram_44
+265641	[1000]	:	Key	28	DOWN	at	265148  
+265642	[1]	:	Key	28	UP	at	265389  
+265677	[35]	:	Stim:	4	scram_46
+266713	[1036]	:	Stim:	4	scram_47
+267750	[1037]	:	Stim:	4	scram_48
+268769	[1019]	:	Stim:	2	pjbnw
+269789	[1020]	:	Stim:	2	gvmh
+270809	[1020]	:	Stim:	2	thgj
+271828	[1019]	:	Stim:	2	jxlgl
+272849	[1021]	:	Stim:	2	jxlgl
+273849	[1000]	:	Key	28	DOWN	at	273310  
+273850	[1]	:	Key	28	UP	at	273557  
+273868	[18]	:	Stim:	2	qtfkb
+274888	[1020]	:	Stim:	2	tvpr
+275907	[1019]	:	Stim:	2	mhbpc
+276927	[1020]	:	Stim:	2	kxdkr
+277947	[1020]	:	Stim:	2	cmqjj
+278967	[1020]	:	Stim:	2	hdlmk
+279986	[1019]	:	Stim:	2	phrxq
+281006	[1020]	:	Stim:	2	kpbq
+282025	[1019]	:	Stim:	2	nrlr
+283045	[1020]	:	Stim:	2	rtlg
+284045	[1000]	:	Key	28	UP	at	283676  
+284065	[20]	:	Stim:	2	rtlg
+285085	[1020]	:	Stim:	1	gable
+286104	[1019]	:	Stim:	1	disc
+287124	[1020]	:	Stim:	1	roar
+288143	[1019]	:	Stim:	1	giant
+289146	[1003]	:	Stim:	1	giant
+290146	[1000]	:	Key	28	DOWN	at	289787  
+290147	[1]	:	Key	28	UP	at	290021  
+290167	[20]	:	Stim:	1	oxide
+291186	[1019]	:	Stim:	1	pare
+292206	[1020]	:	Stim:	1	plumb
+293226	[1020]	:	Stim:	1	clang
+294245	[1019]	:	Stim:	1	fleet
+295265	[1020]	:	Stim:	1	delta
+296285	[1020]	:	Stim:	1	badge
+297305	[1020]	:	Stim:	1	loot
+298324	[1019]	:	Stim:	1	lily
+299344	[1020]	:	Stim:	1	crew
+300363	[1019]	:	Stim:	1	crew
+301363	[1000]	:	Key	28	DOWN	at	300844  
+301364	[1]	:	Key	28	UP	at	301148  
+301400	[36]	:	Stim:	3	truck
+302435	[1035]	:	Stim:	3	boot
+303454	[1019]	:	Stim:	3	sofa
+304473	[1019]	:	Stim:	3	sofa
+305473	[1000]	:	Key	28	DOWN	at	305086  
+305474	[1]	:	Key	28	UP	at	305338  
+305510	[36]	:	Stim:	3	torch
+306545	[1035]	:	Stim:	3	sword
+307563	[1018]	:	Stim:	3	whale
+308582	[1019]	:	Stim:	3	pram
+309601	[1019]	:	Stim:	3	snake
+310620	[1019]	:	Stim:	3	apple
+311655	[1035]	:	Stim:	3	apple
+312655	[1000]	:	Key	28	UP	at	312228  
+312690	[35]	:	Stim:	3	lion
+313710	[1020]	:	Stim:	3	train
+314729	[1019]	:	Stim:	3	hammer
+315765	[1036]	:	Stim:	3	guitar
+316800	[1035]	:	Stim:	3	vase
+317803	[1003]	:	Rest at: 317803
+333165	[15362]	:	Stim:	2	fmrpj
+334185	[1020]	:	Stim:	2	lczj
+335205	[1020]	:	Stim:	2	xjbq
+336225	[1020]	:	Stim:	2	wdfgs
+337244	[1019]	:	Stim:	2	pdps
+338264	[1020]	:	Stim:	2	pdps
+339264	[1000]	:	Key	28	DOWN	at	338807  
+339265	[1]	:	Key	28	UP	at	339041  
+339283	[18]	:	Stim:	2	hbtnm
+340304	[1021]	:	Stim:	2	kgfzt
+341323	[1019]	:	Stim:	2	cxpnp
+342343	[1020]	:	Stim:	2	kmssf
+343362	[1019]	:	Stim:	2	xzhdv
+344382	[1020]	:	Stim:	2	vfkxq
+345402	[1020]	:	Stim:	2	vfkxq
+346401	[999]	:	Key	28	DOWN	at	345937  
+346402	[1]	:	Key	28	UP	at	346189  
+346422	[20]	:	Stim:	2	krrv
+347441	[1019]	:	Stim:	2	hdlrw
+348461	[1020]	:	Stim:	2	gcgqw
+349480	[1019]	:	Stim:	1	dogma
+350500	[1020]	:	Stim:	1	sine
+351520	[1020]	:	Stim:	1	pane
+352540	[1020]	:	Stim:	1	knoll
+353560	[1020]	:	Stim:	1	trim
+354579	[1019]	:	Stim:	1	trim
+355579	[1000]	:	Key	28	DOWN	at	355002  
+355580	[1]	:	Key	28	UP	at	355266  
+355599	[19]	:	Stim:	1	valor
+356618	[1019]	:	Stim:	1	gaudy
+357639	[1021]	:	Stim:	1	arise
+358658	[1019]	:	Stim:	1	scout
+359678	[1020]	:	Stim:	1	manor
+360697	[1019]	:	Stim:	1	comet
+361717	[1020]	:	Stim:	1	comet
+362717	[1000]	:	Key	28	DOWN	at	362191  
+362718	[1]	:	Key	28	UP	at	362467  
+362737	[19]	:	Stim:	1	hive
+363757	[1020]	:	Stim:	1	quack
+364776	[1019]	:	Stim:	1	bloom
+365812	[1036]	:	Stim:	3	shirt
+366831	[1019]	:	Stim:	3	bomb
+367851	[1020]	:	Stim:	3	bear
+368886	[1035]	:	Stim:	3	pipe
+369922	[1036]	:	Stim:	3	fence
+370940	[1018]	:	Stim:	3	plant
+371960	[1020]	:	Stim:	3	plant
+372959	[999]	:	Key	28	UP	at	372545  
+372995	[36]	:	Stim:	3	cot
+374030	[1035]	:	Stim:	3	gate
+375049	[1019]	:	Stim:	3	basket
+376067	[1018]	:	Stim:	3	basket
+377067	[1000]	:	Key	28	DOWN	at	376588  
+377068	[1]	:	Key	28	UP	at	376822  
+377104	[36]	:	Stim:	3	bottle
+378140	[1036]	:	Stim:	3	wasp
+379158	[1018]	:	Stim:	3	book
+380178	[1020]	:	Stim:	3	rake
+381197	[1019]	:	Stim:	3	chips
+382233	[1036]	:	Stim:	4	scram_49
+383269	[1036]	:	Stim:	4	scram_50
+384307	[1038]	:	Stim:	4	scram_51
+385343	[1036]	:	Stim:	4	scram_52
+386379	[1036]	:	Stim:	4	scram_52
+387415	[1036]	:	Stim:	4	scram_54
+388452	[1037]	:	Stim:	4	scram_55
+389488	[1036]	:	Stim:	4	scram_56
+390524	[1036]	:	Stim:	4	scram_57
+391561	[1037]	:	Stim:	4	scram_57
+392561	[1000]	:	Key	28	DOWN	at	392427  
+392598	[37]	:	Stim:	4	scram_59
+393634	[1036]	:	Stim:	4	scram_60
+394670	[1036]	:	Stim:	4	scram_61
+395707	[1037]	:	Stim:	4	scram_62
+396743	[1036]	:	Stim:	4	scram_63
+397779	[1036]	:	Stim:	4	scram_64
+398783	[1004]	:	Rest at: 398782
+414179	[15396]	:	Stim:	3	balloon
+415214	[1035]	:	Stim:	3	fork
+416232	[1018]	:	Stim:	3	wall
+417251	[1019]	:	Stim:	3	mole
+418271	[1020]	:	Stim:	3	rat
+419307	[1036]	:	Stim:	3	pear
+420325	[1018]	:	Stim:	3	rope
+421344	[1019]	:	Stim:	3	rope
+422344	[1000]	:	Key	28	DOWN	at	421801  
+422345	[1]	:	Key	28	UP	at	422053  
+422381	[36]	:	Stim:	3	grater
+423416	[1035]	:	Stim:	3	fly
+424452	[1036]	:	Stim:	3	leaf
+425489	[1037]	:	Stim:	3	piano
+426525	[1036]	:	Stim:	3	lamp
+427561	[1036]	:	Stim:	3	anchor
+428598	[1037]	:	Stim:	3	potato
+429635	[1037]	:	Stim:	3	potato
+430635	[1000]	:	Key	28	DOWN	at	430092  
+430636	[1]	:	Key	28	UP	at	430432  
+430671	[35]	:	Stim:	4	scram_65
+431707	[1036]	:	Stim:	4	scram_66
+432744	[1037]	:	Stim:	4	scram_67
+433780	[1036]	:	Stim:	4	scram_68
+434816	[1036]	:	Stim:	4	scram_69
+435852	[1036]	:	Stim:	4	scram_70
+436890	[1038]	:	Stim:	4	scram_71
+437926	[1036]	:	Stim:	4	scram_71
+438926	[1000]	:	Key	28	DOWN	at	438687  
+438962	[36]	:	Stim:	4	scram_73
+439999	[1037]	:	Stim:	4	scram_74
+441035	[1036]	:	Stim:	4	scram_75
+442071	[1036]	:	Stim:	4	scram_75
+443071	[1000]	:	Key	28	DOWN	at	442631  
+443072	[1]	:	Key	28	UP	at	442889  
+443108	[36]	:	Stim:	4	scram_77
+444144	[1036]	:	Stim:	4	scram_78
+445181	[1037]	:	Stim:	4	scram_79
+446217	[1036]	:	Stim:	4	scram_80
+447237	[1020]	:	Stim:	2	xhvzz
+448257	[1020]	:	Stim:	2	vzpm
+449276	[1019]	:	Stim:	2	vzpm
+450276	[1000]	:	Key	28	DOWN	at	450072  
+450296	[20]	:	Stim:	2	kvwx
+451315	[1019]	:	Stim:	2	spbxz
+452335	[1020]	:	Stim:	2	cghm
+453355	[1020]	:	Stim:	2	jkxfm
+454355	[1000]	:	Key	28	DOWN	at	453945  
+454355	[0]	:	Key	28	UP	at	454191  
+454375	[20]	:	Stim:	2	qxcb
+455394	[1019]	:	Stim:	2	vtwgb
+456414	[1020]	:	Stim:	2	clhsb
+457434	[1020]	:	Stim:	2	fdfcz
+458454	[1020]	:	Stim:	2	pnmj
+459474	[1020]	:	Stim:	2	xjvkd
+460493	[1019]	:	Stim:	2	rnsd
+461513	[1020]	:	Stim:	2	rnsd
+462513	[1000]	:	Key	28	DOWN	at	462266  
+462514	[1]	:	Key	28	UP	at	462471  
+462532	[18]	:	Stim:	2	jhnb
+463552	[1020]	:	Stim:	1	gleam
+464572	[1020]	:	Stim:	1	gear
+465592	[1020]	:	Stim:	1	gear
+466592	[1000]	:	Key	28	DOWN	at	466162  
+466593	[1]	:	Key	28	UP	at	466402  
+466611	[18]	:	Stim:	1	lime
+467631	[1020]	:	Stim:	1	alien
+468650	[1019]	:	Stim:	1	dock
+469671	[1021]	:	Stim:	1	spike
+470690	[1019]	:	Stim:	1	lure
+471710	[1020]	:	Stim:	1	zebra
+472729	[1019]	:	Stim:	1	baton
+473749	[1020]	:	Stim:	1	dread
+474768	[1019]	:	Stim:	1	rung
+475771	[1003]	:	Stim:	1	booth
+476792	[1021]	:	Stim:	1	dice
+477811	[1019]	:	Stim:	1	dice
+478811	[1000]	:	Key	28	DOWN	at	478256  
+478812	[1]	:	Key	28	UP	at	478496  
+478831	[19]	:	Stim:	1	gush
+479834	[1003]	:	Rest at: 479834
+495163	[15329]	:	Stim:	1	navy
+496183	[1020]	:	Stim:	1	navy
+497183	[1000]	:	Key	28	DOWN	at	496807  
+497184	[1]	:	Key	28	UP	at	497041  
+497202	[18]	:	Stim:	1	eagle
+498223	[1021]	:	Stim:	1	numb
+499242	[1019]	:	Stim:	1	shrug
+500262	[1020]	:	Stim:	1	rust
+501281	[1019]	:	Stim:	1	thud
+502301	[1020]	:	Stim:	1	cane
+503320	[1019]	:	Stim:	1	mule
+504341	[1021]	:	Stim:	1	mule
+505341	[1000]	:	Key	28	DOWN	at	504752  
+505342	[1]	:	Key	28	UP	at	504992  
+505360	[18]	:	Stim:	1	maker
+506380	[1020]	:	Stim:	1	veil
+507399	[1019]	:	Stim:	1	quake
+508419	[1020]	:	Stim:	1	maze
+509439	[1020]	:	Stim:	1	mall
+510459	[1020]	:	Stim:	1	yacht
+511494	[1035]	:	Stim:	3	cheese
+512529	[1035]	:	Stim:	3	bee
+513548	[1019]	:	Stim:	3	lemon
+514567	[1019]	:	Stim:	3	badger
+515602	[1035]	:	Stim:	3	door
+516621	[1019]	:	Stim:	3	fox
+517640	[1019]	:	Stim:	3	shoe
+518659	[1019]	:	Stim:	3	shoe
+519659	[1000]	:	Key	28	UP	at	519254  
+519696	[37]	:	Stim:	3	medal
+520731	[1035]	:	Stim:	3	bath
+521750	[1019]	:	Stim:	3	coffin
+522768	[1018]	:	Stim:	3	cake
+523788	[1020]	:	Stim:	3	cake
+524788	[1000]	:	Key	28	DOWN	at	524346  
+524789	[1]	:	Key	28	UP	at	524586  
+524824	[35]	:	Stim:	3	watch
+525844	[1020]	:	Stim:	3	mouth
+526863	[1019]	:	Stim:	3	carrot
+527900	[1037]	:	Stim:	4	scram_2
+528936	[1036]	:	Stim:	4	scram_10
+529973	[1037]	:	Stim:	4	scram_20
+531009	[1036]	:	Stim:	4	scram_29
+532046	[1037]	:	Stim:	4	scram_39
+533082	[1036]	:	Stim:	4	scram_45
+534118	[1036]	:	Stim:	4	scram_45
+535118	[1000]	:	Key	28	DOWN	at	534752  
+535119	[1]	:	Key	28	UP	at	535080  
+535155	[36]	:	Stim:	4	scram_53
+536191	[1036]	:	Stim:	4	scram_58
+537227	[1036]	:	Stim:	4	scram_72
+538265	[1038]	:	Stim:	4	scram_76
+539301	[1036]	:	Stim:	4	scram_1
+540337	[1036]	:	Stim:	4	scram_3
+541373	[1036]	:	Stim:	4	scram_3
+542373	[1000]	:	Key	28	DOWN	at	541976  
+542374	[1]	:	Key	28	UP	at	542217  
+542410	[36]	:	Stim:	4	scram_4
+543446	[1036]	:	Stim:	4	scram_5
+544466	[1020]	:	Stim:	2	hgbt
+545485	[1019]	:	Stim:	2	hgbt
+546485	[1000]	:	Key	28	DOWN	at	546096  
+546486	[1]	:	Key	28	UP	at	546318  
+546506	[20]	:	Stim:	2	krspt
+547525	[1019]	:	Stim:	2	tsxp
+548545	[1020]	:	Stim:	2	vwbgg
+549564	[1019]	:	Stim:	2	wwcg
+550584	[1020]	:	Stim:	2	nzxq
+551603	[1019]	:	Stim:	2	clxt
+552624	[1021]	:	Stim:	2	gwkw
+553643	[1019]	:	Stim:	2	gwkw
+554643	[1000]	:	Key	28	DOWN	at	554135  
+554643	[0]	:	Key	28	UP	at	554351  
+554663	[20]	:	Stim:	2	jvtst
+555683	[1020]	:	Stim:	2	pcmc
+556702	[1019]	:	Stim:	2	mdwpk
+557723	[1021]	:	Stim:	2	ksbx
+558742	[1019]	:	Stim:	2	lnnc
+559762	[1020]	:	Stim:	2	vpcrf
+560765	[1003]	:	Rest at: 560765
+579143	[18378]	:	COGENT STOP
