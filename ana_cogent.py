@@ -4,10 +4,11 @@
 import re
 import io
 from os.path import join as pjoin
+from itertools import product
 
 from nibabel.openers import Opener
 
-timing_re = re.compile('\d+\t\[\d+\]')
+timing_re = re.compile(r'\d+\t\[\d+\]')
 
 BAD_LOOKUP = {1: 'Words',
               2: 'Objects',
@@ -64,24 +65,28 @@ def proc_cogent(fname):
         return round((int(raw_time) - start_time) / 1000, 1)
 
     stimuli = []
-    last_time = None
+    last_stim_time = None
     for line in lines[i + 2:-1]:
         assert timing_re.match(line)
         parts = line.split('\t')
         assert parts[2] == ':'
         if parts[-1].startswith('Rest at:'):
             assert len(parts) >= 4
+            last_stim_time = None
             continue
         if parts[3] == 'Key':
             assert len(parts) >= 8
             if parts[5] == 'UP':
                 continue
             assert parts[5:7] == ['DOWN', 'at']
+            if last_stim_time is None:
+                continue
             # Fill response and RT in previous stimulus
             this_stimulus = stimuli[-1]
             key = parts[4]
-            rt = int(parts[7]) - last_time
+            rt = int(parts[7]) - last_stim_time
             this_stimulus[-2:] = [key, rt]
+            last_stim_time = None
             continue
         assert parts[3] == 'Stim:'
         assert len(parts) >= 6
@@ -91,7 +96,7 @@ def proc_cogent(fname):
         onset = exp_time(parts[0], start_time)
         stimuli.append([onset, stim_type, stim_name, 'NR', 'NR'])
         # For RT calculation above
-        last_time = int(parts[0])
+        last_stim_time = int(parts[0])
 
     return stimuli
 
@@ -111,23 +116,17 @@ def write_stimuli(stimuli, fname):
 
 
 def test_cogents():
-    for in_fname, out_fname in (
-        (pjoin('cogents', 'sub-01', 'oneback_1.log'),
-         pjoin('tsvs', 'sub-01', 'func',
-               'sub-01_task-onebacktask_run-01_events.tsv')),
-        (pjoin('cogents', 'sub-01', 'oneback_2.log'),
-         pjoin('tsvs', 'sub-01', 'func',
-               'sub-01_task-onebacktask_run-02_events.tsv')),
-        (pjoin('cogents', 'sub-02', 'oneback_1.log'),
-         pjoin('tsvs', 'sub-02', 'func',
-               'sub-02_task-onebacktask_run-01_events.tsv')),
-        (pjoin('cogents', 'sub-02', 'oneback_2.log'),
-         pjoin('tsvs', 'sub-02', 'func',
-               'sub-02_task-onebacktask_run-02_events.tsv')),
-        (pjoin('cogents', 'sub-03', 'oneback_2.log'),
-         pjoin('tsvs', 'sub-03', 'func',
-               'sub-03_task-onebacktask_run-02_events.tsv'))
-    ):
+    # Check analysis gives same answers as original TSV files.
+    for sub_no, run_no in product(range(1, 50), [1, 2]):
+        if sub_no == 25:
+            continue
+        if (sub_no, run_no) == (41, 2):
+            continue
+        sub_str = f'sub-{sub_no:02d}'
+        in_fname = pjoin('cogents', sub_str, f'oneback_{run_no}.log')
+        out_fname = pjoin(
+            'tsvs', sub_str, 'func',
+            f'{sub_str}_task-onebacktask_run-{run_no:02d}_events.tsv')
         with open(out_fname, 'rt') as fobj:
             contents = fobj.read()
         stimuli = proc_cogent(in_fname)
