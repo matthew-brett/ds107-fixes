@@ -1,8 +1,10 @@
+""" Script finds matches between raw and openfmri subjects
+"""
+
 import shutil
 import os
 from os.path import join as pjoin, isdir, basename
 from glob import glob
-import re
 
 import numpy as np
 
@@ -51,6 +53,11 @@ for sub_dir in sub_dirs:
         else:
             continue
         break
+
+rev_match = {value: key for key, value in matches.items()}
+for key in sorted(rev_match):
+    print(key, rev_match[key])
+
 
 print('Missing', ', '.join(sorted(
     set(positions).difference(set(matches.values())))))
