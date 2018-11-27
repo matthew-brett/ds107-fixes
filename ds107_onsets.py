@@ -46,7 +46,7 @@ GOOD_LOOKUP = {'words': 1,
 INV_LOOKUP = {v: k for k, v in GOOD_LOOKUP.items()}
 
 
-def oneback_preprocessor(df):
+def oneback_processor(df):
     """ Process dataframe for all trial types """
     trial_type = df['1'].apply(lambda v : INV_LOOKUP[v])
     amplitude = pd.Series(np.ones(len(df)))
@@ -58,7 +58,7 @@ def oneback_preprocessor(df):
 
 TASK_DEFS = dict(
     onebacktask=dict(old_no=1,
-                     preprocessor=oneback_preprocessor,
+                     processor=oneback_processor,
                      conditions=list(GOOD_LOOKUP),
                      ok = True,  # Set False to disable processing
                     ),
@@ -89,7 +89,7 @@ def main():
         defs = TASK_DEFS
     else:
         defs = {k: v for k, v in TASK_DEFS.items() if k in args.task_name}
-    write_tasks(args.data_dir, args.out_dir, defs)
+    write_tasks(args.data_dir, defs, args.out_dir)
 
 
 if __name__ == '__main__':
