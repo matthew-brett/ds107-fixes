@@ -15,13 +15,14 @@ for more information.
 """
 
 """
-See check_ds107_onsets.py for tests.
+See test_ds107_onsets.py for tests.
 """
 
 from glob import glob
 from os import mkdir
 from os.path import join as pjoin, split as psplit, isdir, dirname, exists
 from argparse import ArgumentParser
+from collections import OrderedDict
 
 import numpy as np
 
@@ -39,16 +40,16 @@ elif isdir('sub-01'):
 
 
 # Correct task name / number mappings
-GOOD_LOOKUP = {'words': 1,
-               'objects': 3,
-               'scrambled': 4,
-               'consonant': 2}
+GOOD_LOOKUP = OrderedDict(words=1,
+                          strings=2,
+                          objects=3,
+                          scrambled=4)
 INV_LOOKUP = {v: k for k, v in GOOD_LOOKUP.items()}
 
 
 def oneback_processor(df):
     """ Process dataframe for all trial types """
-    trial_type = df['1'].apply(lambda v : INV_LOOKUP[v])
+    trial_type = df['1'].map(INV_LOOKUP)
     amplitude = pd.Series(np.ones(len(df)))
     classified = pd.concat([trial_type, df['onset'], df['duration'],
                             amplitude], axis=1)
@@ -57,7 +58,7 @@ def oneback_processor(df):
 
 
 TASK_DEFS = dict(
-    onebacktask=dict(old_no=1,
+    onebacktask=dict(old_task_no=1,
                      processor=oneback_processor,
                      conditions=list(GOOD_LOOKUP),
                      ok = True,  # Set False to disable processing
