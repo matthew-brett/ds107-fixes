@@ -5,8 +5,25 @@ import re
 import io
 from os.path import join as pjoin
 from itertools import product
+from contextlib import contextmanager
 
-from nibabel.openers import Opener
+
+@contextmanager
+def null_cm(obj):
+    yield obj
+
+
+def check_mode(obj, mode):
+    if 'a' in mode:
+        return hasattr(obj, 'read') and hasattr(obj, 'write')
+    if 'w' in mode:
+        return hasattr(obj, 'write')
+    return hasattr(obj, 'read')
+
+
+def opened(obj, mode):
+    return null_cm(obj) if check_mode(obj, mode) else open(obj, mode)
+
 
 timing_re = re.compile(r'\d+\t\[\d+\]')
 
@@ -37,7 +54,7 @@ DURATION = 0.35
 def proc_cogent(fname):
     """ Process Cogent file
     """
-    with open(fname, 'rt') as fobj:
+    with opened(fname, 'rt') as fobj:
         content = fobj.read()
 
     lines = content.splitlines()
@@ -108,7 +125,7 @@ def write_stimuli(stimuli, fname):
         values = [onset, DURATION, BAD_LOOKUP[stim_type],
                   stim_name, stim_type, key, RT]
         lines.append(values)
-    with Opener(fname, 'wt') as fobj:
+    with opened(fname, 'wt') as fobj:
         fobj.write('\t'.join(COL_NAMES) + '\n')
         for line in lines:
             fobj.write(COL_FMT_STR.format(*line))
