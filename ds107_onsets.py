@@ -18,9 +18,8 @@ for more information.
 See test_ds107_onsets.py for tests.
 """
 
-from glob import glob
 from os import mkdir
-from os.path import join as pjoin, split as psplit, isdir, dirname, exists
+from os.path import join as pjoin, dirname, isdir, exists
 from argparse import ArgumentParser
 from collections import OrderedDict
 
@@ -28,7 +27,7 @@ import numpy as np
 
 import pandas as pd
 
-from onftools import parse_tsv_name, tsv2events, three_column, write_tasks
+from onftools import write_tasks
 
 
 # Where to look for condition files
@@ -61,13 +60,8 @@ TASK_DEFS = dict(
     onebacktask=dict(old_task_no=1,
                      processor=oneback_processor,
                      conditions=list(GOOD_LOOKUP),
-                     ok = True,  # Set False to disable processing
                     ),
 )
-
-# Throw away incomplete TASK_DEFS (where field 'ok' is not True).
-TASK_DEFS = {name: task_def for name, task_def in TASK_DEFS.items()
-             if task_def.get('ok')}
 
 
 def main():
@@ -90,6 +84,7 @@ def main():
         defs = TASK_DEFS
     else:
         defs = {k: v for k, v in TASK_DEFS.items() if k in args.task_name}
+    # Main work done by write_tasks function in onftools
     write_tasks(args.data_dir, defs, args.out_dir)
 
 
