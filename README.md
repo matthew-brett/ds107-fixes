@@ -12,8 +12,9 @@ The fragments are:
 
 * `find_copy_cogents.py` - uses the functional image affine matrices to match
   the subjects in the raw data archive with the subjects in `ds107`, then
-  copies their Cogent experiment logs to a directory structure matching
-  `ds107`.  I committed the results in the `cogents` directory.
+  copies their [Cogent](http://www.vislab.ucl.ac.uk/cogent.php) experiment logs
+  to a directory structure matching `ds107`.  I committed the results in the
+  `cogents` directory.
 * `ana_cogent.py` - reconstruct the analysis of the Cogent log files to
   regenerate the `.tsv` task files corresponding to the data in the `ds107`
   dataset.  Test the results are the same for the good subjects.  In fact, only
