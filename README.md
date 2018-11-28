@@ -1,7 +1,7 @@
 # Processing for ds107 dataset
 
 This repository has various fragments for processing the raw data of the
-[ds107 dataset](https://openneuro.org/datasets/ds000009).
+[ds107 dataset](https://openneuro.org/datasets/ds000107).
 
 The *raw data* is the data processed by the research team, to generate the
 public ds107.  Many thanks to Professor Joe Devlin for searching out that data,
