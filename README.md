@@ -4,9 +4,9 @@ This repository has various fragments for processing the raw data of the
 [ds107 dataset](https://openneuro.org/datasets/ds000107).
 
 The *raw data* is the data processed by the research team, to generate the
-public ds107.  Many thanks to Professor Joe Devlin for searching out that data,
-and having a filing system good enough to get the data back from an experiment
-that is more than 10 years old.
+public `ds107` dataset.  Many thanks to Professor Joe Devlin for searching out
+that data, and having a filing system good enough to get the data back from an
+experiment that is more than 10 years old.
 
 The fragments are:
 
@@ -27,3 +27,4 @@ The fragments are:
   from the `.tsv` files.
 * `test_ds107_onsets.py` tests `ds107_onsets.py`, and checks the results
   against the original OpenFMRI files giving the `ds107` experimental paradigm.
+  These original files are in the `old_onsets` directory.
